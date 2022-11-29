@@ -1,15 +1,3 @@
 <template>
-    <div>
-        <h1>Laravel Vue Frame</h1>
-    </div>
+    <router-view/>
 </template>
-
-<script>
-    export default {
-
-    }
-</script>
-
-<style lang="stylus" scoped>
-
-</style>
